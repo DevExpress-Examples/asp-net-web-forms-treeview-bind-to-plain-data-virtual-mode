@@ -1,7 +1,7 @@
 ﻿Imports System
 Imports System.Data
 Imports System.Collections.Generic
-Imports DevExpress.Web.ASPxTreeView
+Imports DevExpress.Web
 
 Partial Public Class _Default
     Inherits System.Web.UI.Page
