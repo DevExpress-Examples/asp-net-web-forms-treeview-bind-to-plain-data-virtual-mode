@@ -13,12 +13,8 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <dx:ASPxHiddenField ID="ASPxHiddenField1" runat="server" ClientInstanceName="hidden">
-        </dx:ASPxHiddenField>
-        <dx:ASPxTreeView ID="treeView" runat="server" EnableCallBacks="true" 
-            OnVirtualModeCreateChildren="treeView_VirtualModeCreateChildren">
-        </dx:ASPxTreeView>
-    
+        <dx:ASPxHiddenField ID="ASPxHiddenField1" runat="server" ClientInstanceName="hidden" />
+        <dx:ASPxTreeView ID="treeView" runat="server" EnableCallBacks="true" OnVirtualModeCreateChildren="treeView_VirtualModeCreateChildren" />
     </div>
     </form>
 </body>
