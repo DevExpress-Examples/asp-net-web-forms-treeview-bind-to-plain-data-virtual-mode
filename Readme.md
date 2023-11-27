@@ -9,7 +9,7 @@
 **[[Run Online]](https://codecentral.devexpress.com/128563728/)**
 <!-- run online end -->
 
-This example demonstrates how to bind [ASPxTreeView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxTreeView) to data stored in DataTable. Nodes are created in [virtual mode]([https://docs.devexpress.com/AspNet/3978/components/tree-list/concepts/binding-to-data/unbound-mode](https://docs.devexpress.com/AspNet/8575/components/site-navigation-and-layout/tree-view/concepts/binding-to-data/virtual-mode)).
+This example demonstrates how to bind [ASPxTreeView](https://docs.devexpress.com/AspNet/DevExpress.Web.ASPxTreeView) to data stored in DataTable. Nodes are created in [virtual mode](https://docs.devexpress.com/AspNet/8575/components/site-navigation-and-layout/tree-view/concepts/binding-to-data/virtual-mode).
 
 ```csharp
 protected void treeView_VirtualModeCreateChildren(object source, TreeViewVirtualModeCreateChildrenEventArgs e) {
