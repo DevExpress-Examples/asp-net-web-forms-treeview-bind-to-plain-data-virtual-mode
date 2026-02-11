@@ -34,7 +34,7 @@ protected void treeView_VirtualModeCreateChildren(object source, TreeViewVirtual
 
 * [Tree View for ASP.NET Web Forms - How to bind the tree to plain data (Unbound mode)](https://github.com/DevExpress-Examples/asp-net-web-forms-treeview-bind-to-plain-data-unbound-mode)
 <!-- feedback -->
-## Does This Example Address Your Development Requirements/Objectives?
+## Does this example address your development requirements/objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-treeview-bind-to-plain-data-virtual-mode&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=asp-net-web-forms-treeview-bind-to-plain-data-virtual-mode&~~~was_helpful=no)
 
